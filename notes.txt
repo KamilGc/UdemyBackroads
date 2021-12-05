@@ -1,0 +1,14 @@
+WIDTH: <-->
+
+HEIGHT: ^ v
+
+rel - parent
+abs - child
+
+576px
+768px
+992px
+1200px
+1400px
+
+transform: translate(-50%, -50%);
